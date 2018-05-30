@@ -32,7 +32,7 @@ map '/' do
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>!!!!!!! Welcome to the datascientist !!!!!!!!!!</title>
+  <title>!!!!!!! Welcome to the datascientist in Openshift !!!!!!!!!!</title>
 
 
 <style>
@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to the datascientist !!!!</h1>
+            <h1>Welcome to the datascientist in Openshift at ICRC !!!!</h1>
           </hgroup>
 
 
